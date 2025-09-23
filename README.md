@@ -75,7 +75,7 @@ Random test samples with True vs Predicted labels highlighted:
 - ✅ Correct predictions in **green**  
 - ❌ Wrong predictions in **red**
 
-![Prediction](assets/report.png)
+![Prediction](assets/Prediction.png)
 
 
 ## 📌 Future Work
