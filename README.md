@@ -28,7 +28,7 @@ The dataset is structured as follows:
   - Brightness variation (0.8–1.2)  
 
 ### 2. **Model Architecture**
-- **Base Model:** [XceptionNet](https://arxiv.org/abs/1610.02357) pretrained on ImageNet.  
+- **Base Model:** XceptionNet (pretrained on ImageNet).  
 - **Custom classification head:**
   - Global Average Pooling  
   - Dense (512, ReLU)  
