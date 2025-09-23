@@ -8,6 +8,7 @@ The goal is to provide a reliable detection system that can be extended into rea
 ## 📂 Dataset
 
 Source: [DeepFake and Real Images Dataset on Kaggle](https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images).
+
 The dataset is structured as follows:
   - **Train set:** Used for model training (with augmentation).  
   - **Validation set:** Used for hyperparameter tuning and early stopping.  
