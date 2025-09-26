@@ -60,17 +60,13 @@ The dataset is structured as follows:
 |------------|------------|
 | ![Accuracy](assets/Accuracy.png) | ![Loss](assets/Loss.png) |
 
-### 2. Model Evaluation
-- Test Accuracy: ~86.16%  
-- Test Loss: ~1.289 
-
-### 3. Confusion Matrix 
+### 2. Confusion Matrix 
 ![Confusion Matrix](assets/Confusion_Matrix.png)
 
-### 4. Classification Report
+### 3. Classification Report
 ![report](assets/report.png)
 
-### 5. Prediction Visualization
+### 4. Prediction Visualization
 Random test samples with True vs Predicted labels highlighted:  
 - ✅ Correct predictions in **green**  
 - ❌ Wrong predictions in **red**
