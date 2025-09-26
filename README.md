@@ -64,7 +64,7 @@ The dataset is structured as follows:
 ![Confusion Matrix](assets/Confusion_Matrix.png)
 
 ### 3. Classification Report
-![report](assets/report.png)
+![report](assets/classification_report.png)
 
 ### 4. Prediction Visualization
 Random test samples with True vs Predicted labels highlighted:  
