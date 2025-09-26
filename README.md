@@ -1,4 +1,4 @@
-# 🕵️ DeepFake vs Real Image Classification with XceptionNet
+# 🕵️ DeepFake vs Real Image Detection with XceptionNet
 
 ## 📌 Overview
 This project implements a **binary image classification model** to distinguish between **Real and Fake (DeepFake) images** using **XceptionNet** with transfer learning.  
